@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="tvOne">Ingrese un primer número</string>
+    <string name="btnOne">Continuar</string>
+    <string name="tvSecond">Ingrese un segundo número</string>
+    <string name="btnSecond">Continuar</string>
+    <string name="btnThird">Calcular</string>
+    <string name="tvThird">Ingrese un tercer número</string>
+    <string name="tvFourth">"Resultado: "</string>
+    <string name="tvFiveth">TextView</string>
+    <string name="btnvolver">Volver</string>
+</resources>
